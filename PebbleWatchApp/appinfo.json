@@ -1,0 +1,34 @@
+{
+  "uuid": "3445c6f1-eb16-4912-8bf9-9109917829f3",
+  "shortName": "UbiSwim",
+  "longName": "UbiSwim",
+  "companyName": "UbiSwim.org",
+  "versionLabel": "1.10",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "LOGO",
+        "file": "images/logo.png"
+      },
+      {
+        "type": "png",
+        "name": "SMILEY",
+        "file": "images/smiley.png"
+      },
+      {
+        "type": "png",
+        "name": "SMILEY_HAPPY",
+        "file": "images/smiley_happy.png"
+      }
+    ]
+  }
+}
